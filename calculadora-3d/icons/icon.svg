@@ -19,4 +19,14 @@
     <path d="M360 196 256 256V376L360 316Z" fill="#bcc78a" stroke="#bcc78a"/>
     <path d="M256 136 360 196 256 256 152 196Z" fill="#ffffff" stroke="#ffffff"/>
   </g>
+  <!-- display on the top face -->
+  <g transform="matrix(104 -60 104 60 152 196)">
+    <rect x=".17" y=".3" width=".66" height=".4" rx=".07" fill="#6b7a2b" fill-opacity=".28"/>
+  </g>
+  <!-- keys on the left face -->
+  <g transform="matrix(1 .5774 0 1 152 196)" fill="#6b7a2b" fill-opacity=".38">
+    <rect x="16" y="22" width="30" height="26" rx="8"/><rect x="58" y="22" width="30" height="26" rx="8"/>
+    <rect x="16" y="58" width="30" height="26" rx="8"/><rect x="58" y="58" width="30" height="26" rx="8"/>
+    <rect x="16" y="94" width="30" height="26" rx="8"/><rect x="58" y="94" width="30" height="26" rx="8" fill-opacity=".9"/>
+  </g>
 </svg>
